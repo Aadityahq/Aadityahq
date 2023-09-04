@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **aadityahq@gmail.com**
 
-- ⚡ Fun fact **I am very funny and also very hardworking.**
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
