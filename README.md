@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya Kumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate MERN Stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aadityahq&label=Profile%20views&color=0e75b6&style=flat" alt="aadityahq" /> </p>
 
@@ -7,11 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **airline ticket booking**
+- 🔭 I’m currently working on **Aquaveda- Digital Knowledge Sharing Platform like Wikis on
+sharing of water efficient techniques and methods for minimizing water scarcity.**
 
-- 🌱 I’m currently learning **c++**
+- 🌱 I’m currently learning **Java,SQL,DSA**
 
-- 👯 I’m looking to collaborate on **airline ticket booking**
+- 👯 I’m looking to collaborate on **Aquaveda- Digital Knowledge Sharing Platform like Wikis on
+sharing of water efficient techniques and methods for minimizing water scarcity.**
 
 - 💬 Ask me about **programming, startups and business**
 
