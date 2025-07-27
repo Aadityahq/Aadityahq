@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on **Aquaveda- Digital Knowledge Sharing Platform like Wikis on
 sharing of water efficient techniques and methods for minimizing water scarcity.**
 
-- I’m a tech enthusiast with hands-on experience in **C, Java, JavaScript, HTML, CSS,React.js**
+- 💻 I’m a tech enthusiast with hands-on experience in **C, Java, JavaScript, HTML, CSS,React.js**
 
 - 🌱 I’m currently learning **Core Java,DSA**
 
