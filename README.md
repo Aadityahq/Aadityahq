@@ -1,3 +1,5 @@
+[![An image of @aadityahq's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aadityahq)](https://holopin.io/@aadityahq)
+
 <h1 align="center">Hi 👋, I'm Aditya Kumar</h1>
 <h3 align="center">A passionate MERN Stack developer from India</h3>
 
