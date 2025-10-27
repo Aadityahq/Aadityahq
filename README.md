@@ -61,7 +61,7 @@ sharing of water efficient techniques and methods for minimizing water scarcity.
 
 ## 📊 GitHub Stats:
 <div align="center">
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aadityahq&show_icons=true&locale=en&layout=compact" alt="aadityahq"/><    </p>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aadityahq&show_icons=true&locale=en&layout=compact" alt="aadityahq"/></p>
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aadityahq&show_icons=true&locale=en" alt="aadityahq" /></p>
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aadityahq&" alt="aadityahq" /></p>
 </div>
