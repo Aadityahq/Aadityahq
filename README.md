@@ -68,7 +68,7 @@ sharing of water efficient techniques and methods for minimizing water scarcity.
 
 ## 🏆 GitHub Trophies:
 <div align="center">
-  <img src="https://github.com/Aadityahq?tab=achievements&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="[![trophy](https://github-profile-trophy.vercel.app/?Aadityahq=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)" alt="GitHub Trophies" />
 </div>
 
 ### ✍️ Random Dev Quote:
